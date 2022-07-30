@@ -4,7 +4,7 @@ Check Demo: [👉HEROKU](https://react-labyrinth-game-bb.herokuapp.com/)
 
 ![](https://github.com/BugsBound/react-labyrinth-game/blob/master/gifs/check.gif)
 
-##Rules of the game
+## Rules of the game
 
 * Start at a random position and indicated by an emoticon (⛩).
 * Below the field, arrows are shown where the move was made.
