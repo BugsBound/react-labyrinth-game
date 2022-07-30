@@ -2,8 +2,7 @@
 
 Check Demo: [👉HEROKU](https://react-labyrinth-game-bb.herokuapp.com/)
 
-![](https://github.com/https://github.com/BugsBound/react-labyrinth-game/gifs/check.gif)
-
+![](https://github.com/BugsBound/react-labyrinth-game/blob/master/gifs/check.gif)
 
 ## Available Scripts
 
